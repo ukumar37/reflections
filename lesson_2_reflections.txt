@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When you initialize a repo, it creates a MAIN branch and a hidden file ".git" which
+tracks all the activity and meta data within that repo.

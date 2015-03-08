@@ -1,0 +1,28 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was 
+introduced?
+A: The Diff command allowed me to compare lines of codes that were
+changed/altered, which made it easy for me to spot the bug/error.
+
+Q: How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+A: By having historical access to all previos versions, I can revert back to a version 
+that I erroneously may have thought to be defective. Or I can retrieve a slice of code 
+that I dropped in later versions.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google docs does?
+A: Manually committing ensures that the commits are made at the right times, at the 
+logical progression of coding. Commits are made when defects/bugs are fixed, enhancements 
+are made, day has ended, etc. In other words, commits are made at reasonable points of 
+the project life.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+A: "git log" will give you a list of all commits made with ids and comment/message. We 
+can then pick the commits/ids we want to compare then run a "git diff" to compare. We can
+then see the specific code lines added and deleted.
+
+Q: How might using version control make you more confident to make changes that could 
+break something?
+A: Because I can always use a git checkout to revert back to a previous good/working 
+version in case the changes break my code. I can also do a diff to see the changes I 
+am making from one commit to the next.
