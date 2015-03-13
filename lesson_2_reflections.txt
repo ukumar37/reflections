@@ -7,3 +7,7 @@ value do you think it offers to developers?
 A: Staging area allows to you to collect files prior to committing them to the repo. This
 allows us to verify what files are being added/committed prior to making the commit.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You can do a git diff --staged which will tell you the differences between the last 
+commit and the the staged version.
+
