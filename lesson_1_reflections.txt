@@ -25,4 +25,4 @@ Q: How might using version control make you more confident to make changes that 
 break something?
 A: Because I can always use a git checkout to revert back to a previous good/working 
 version in case the changes break my code. I can also do a diff to see the changes I 
-am making from one commit to the next commit.
+am making from one commit to the next.
