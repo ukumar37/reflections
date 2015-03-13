@@ -3,7 +3,7 @@ A: When you initialize a repo, it creates a MAIN branch and a hidden file ".git"
 tracks all the activity and meta data within that repo.
 
 Q: How is the staging area different from the working directory and the repository? What 
-value do you think it offers?
+value do you think it offers to developers?
 A: Staging area allows to you to collect files prior to committing them to the repo. This
 allows us to verify what files are being added/committed prior to making the commit.
 
