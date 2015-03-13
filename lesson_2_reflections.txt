@@ -11,3 +11,9 @@ Q: How can you use the staging area to make sure you have one commit per logical
 A: You can do a git diff --staged which will tell you the differences between the last 
 commit and the the staged version.
 
+Q: What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+A: Branches are helpful when we need to try out new features but want to keep the main 
+body of work (i.e. Master) intact. Branches are also helpful when we want to create a
+version of app in another language (say Italian).
+
