@@ -17,3 +17,7 @@ A: Branches are helpful when we need to try out new features but want to keep th
 body of work (i.e. Master) intact. Branches are also helpful when we want to create a
 version of app in another language (say Italian).
 
+Q: How do the diagrams help you visualize the branch structure?
+A: Diagrams show the history of the commits and trace one commit to the next. You can see
+the parent of each commit all the way back to the commit that does not have a parent.
+
